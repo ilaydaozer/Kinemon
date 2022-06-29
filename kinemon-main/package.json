@@ -1,0 +1,11 @@
+{
+  "name": "kinemon-main",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "@nesk/rialto": "^1.4.0",
+    "lodash": "^4.17.21",
+    "puppeteer": "^14.4.0"
+  }
+}
